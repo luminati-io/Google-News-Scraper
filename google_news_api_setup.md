@@ -31,4 +31,4 @@ Follow these steps to set up the [Google News API](https://brightdata.com/produc
 
 9. As you adjust parameters, a CURL command will generate on the right. You can:
    - Use this command to [Trigger Data Collection API](https://docs.brightdata.com/scraping-automation/web-data-apis/web-scraper-api/trigger-a-collection) directly
-   - [Pass these parameters](https://github.com/triposat/Google-News-Scraper?tab=readme-ov-file#key-input-parameters) in the `_trigger_collection` function in your [code](https://github.com/triposat/Google-News-Scraper?tab=readme-ov-file#ready-to-use-python-code)
+   - [Pass these parameters](https://github.com/luminati-io/Google-News-Scraper?tab=readme-ov-file#key-input-parameters) in the `_trigger_collection` function in your [code](https://github.com/luminati-io/Google-News-Scraper?tab=readme-ov-file#ready-to-use-python-code)
