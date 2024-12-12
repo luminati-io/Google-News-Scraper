@@ -1,4 +1,7 @@
 # Google News Scraper
+
+[![Promo](https://github.com/luminati-io/Google-News-Scraper/blob/main/images/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/products/serp-api/google-search/news?promo=github15) 
+
 This repository provides two methods to collect news data from Google News.
 - **Free Method:** Perfect for small projects and learning
 - **Google News API:** Ideal for large-scale, reliable, real-time data extraction
